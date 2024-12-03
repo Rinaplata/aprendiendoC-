@@ -1,2 +1,2 @@
-# aprendiendoC-
+# aprendiendoC#
 Estudiando C#
